@@ -1,0 +1,17 @@
+{
+    "id": 26,
+    "name": "Mr. Hugs' Madness CAM 1 Only",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "Shad0wL1tt3n",
+    "verification": "https://www.youtube.com/watch?v=Zn9t-5BGjGw",
+    "description": "20 AI Mr. Hugs' Night with no challenges. You may not switch the camera from CAM 1.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Shad0wL1tt3n",
+            "link": "https://www.youtube.com/watch?v=Zn9t-5BGjGw",
+            "percent": 100
+        }
+    ]
+}
