@@ -91,7 +91,9 @@ export default {
                     <p>
                         You must beat the night in either Mr. Hugs But Better or a mod of it, with the exact challenges and
 conditions listed in the level description.
-Record a video of your gameplay and submit it to the list staff for verification.
+Record a video of your gameplay and submit it to the list staff for verification. Only the completions you submit
+your record for will be added (submitting a Shadow Mr. Hugs AC completion won't count for other completions unless you
+include that in your submission.)
                     </p>
                 </div>
             </div>
