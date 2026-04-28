@@ -95,6 +95,12 @@ Record a video of your gameplay and submit it to the list staff for verification
 your record for will be added (submitting a Shadow Mr. Hugs AC completion won't count for other completions unless you
 include that in your submission.)
                     </p>
+                    <h3>Game Links</h3>
+                    <p>
+                        <a href="https://gamejolt.com/games/onamhbb/1025030" target="_blank">One Night at Mr. Hugs But Better</a><br>
+                        <a href="https://www.mediafire.com/folder/1g1ez88z0iwsq/One_Night_at_Mr._Hugs_But_Better!_(v1.2.0)" target="_blank">One Night at Mr. Hugs But Better! (v1.2.0)</a><br>
+                        <a href="https://gamejolt.com/games/onamhbbQOL/1030370" target="_blank">One Night at Mr. Hugs But Better QOL Mod/Oats Mayhem</a>
+                    </p>
                 </div>
             </div>
         </main>

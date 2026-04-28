@@ -1,0 +1,17 @@
+{
+    "id": 27,
+    "name": "Oats Mayhem",
+    "author": "Oats",
+    "creators": ["Themadpunter", "Oats"],
+    "verifier": "Oats",
+    "verification": "https://youtu.be/Y5dMdmHL8JY",
+    "description": "A custom Mr. Hugs mode by Oats.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Oats",
+            "link": "https://youtu.be/Y5dMdmHL8JY",
+            "percent": 100
+        }
+    ]
+}
