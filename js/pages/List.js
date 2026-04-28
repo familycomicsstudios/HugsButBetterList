@@ -50,11 +50,9 @@ export default {
                             <div class="type-title-sm">ID</div>
                             <p>{{ level.id }}</p>
                         </li>
-                        <li>
-                            <div class="type-title-sm">Description</div>
-                            <p>{{ level.description || '' }}</p>
-                        </li>
                     </ul>
+                    <h2>Description</h2>
+                    <p>{{ level.description }}</p>
                     <h2>Records</h2>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">

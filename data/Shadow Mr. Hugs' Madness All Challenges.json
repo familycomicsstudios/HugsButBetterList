@@ -1,0 +1,17 @@
+{
+    "id": 5,
+    "name": "Shadow Mr. Hugs' Madness All Challenges",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "Themadpunter",
+    "verification": "https://www.youtube.com/watch?v=T6p3by-_hCE",
+    "description": "20 AI Mr. Hugs' Night with all normal challenges.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Themadpunter",
+            "link": "https://www.youtube.com/watch?v=T6p3by-_hCE",
+            "percent": 100
+        }
+    ]
+}

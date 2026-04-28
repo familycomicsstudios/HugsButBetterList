@@ -1,0 +1,17 @@
+{
+    "id": 8,
+    "name": "Hyper Hugs' Greed",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "Sevlig",
+    "verification": "https://www.youtube.com/watch?v=8vCIotGCp-w",
+    "description": "20 AI Mr. Hugs' Night with Hyper enabled and 50 coins by the end.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Sevlig",
+            "link": "https://www.youtube.com/watch?v=8vCIotGCp-w",
+            "percent": 100
+        }
+    ]
+}

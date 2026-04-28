@@ -1,0 +1,17 @@
+{
+    "id": 16,
+    "name": "Spicy Man",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "MadoBrick",
+    "verification": "https://www.youtube.com/watch?v=1fkJkXAJfWc",
+    "description": "20 AI Mr. Hugs' Night with all normal challenges plus Hyper, Unhuggable, and Trash Man. All jalapenos must be collected by the end, as well as 50 coins.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "MadoBrick",
+            "link": "https://www.youtube.com/watch?v=1fkJkXAJfWc",
+            "percent": 100
+        }
+    ]
+}
