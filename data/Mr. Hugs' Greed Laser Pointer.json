@@ -1,0 +1,17 @@
+{
+    "id": 23,
+    "name": "Mr. Hugs' Greed Laser Pointer",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "Shad0wL1tt3n",
+    "verification": "https://youtu.be/i2vKkn6xYEI",
+    "description": "20 AI Mr. Hugs' Night with no challenges. 50 coins must be collected by the end. Laser Pointer challenge must be enabled.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Shad0wL1tt3n",
+            "link": "https://youtu.be/i2vKkn6xYEI",
+            "percent": 100
+        }
+    ]
+}
