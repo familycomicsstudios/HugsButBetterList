@@ -3,11 +3,16 @@
     "name": "Shadow Mr. Hugs' Greed",
     "author": "Themadpunter",
     "creators": ["Themadpunter"],
-    "verifier": "Themadpunter",
+    "verifier": "Neo",
     "verification": "https://www.youtube.com/watch?v=tYuzuEcxOAA",
     "description": "20 AI Mr. Hugs' Night with only the Shadow Mr. Hugs challenge, and 50 coins by the end.",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Neo",
+            "link": "https://www.youtube.com/watch?v=RKhmjPl8Uf0",
+            "percent": 100
+        },
         {
             "user": "Themadpunter",
             "link": "https://www.youtube.com/watch?v=tYuzuEcxOAA",

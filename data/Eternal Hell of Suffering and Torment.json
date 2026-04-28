@@ -1,21 +1,16 @@
 {
-    "id": 1,
-    "name": "Mr. Hugs' Madness",
+    "id": 17,
+    "name": "Eternal Hell of Suffering and Torment",
     "author": "Themadpunter",
     "creators": ["Themadpunter"],
     "verifier": "Themadpunter",
     "verification": "https://www.youtube.com/watch?v=TJhI2VKUebs",
-    "description": "20 AI Mr. Hugs' Night with no challenges.",
+    "description": "0 AI Mr. Hugs Night with no challenges",
     "percentToQualify": 100,
     "records": [
         {
             "user": "Themadpunter",
             "link": "https://www.youtube.com/watch?v=TJhI2VKUebs",
-            "percent": 100
-        },
-        {
-            "user": "Neo",
-            "link": "https://youtube.com/watch?v=O_e2YkNOR84",
             "percent": 100
         }
     ]
