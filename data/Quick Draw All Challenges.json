@@ -1,0 +1,17 @@
+{
+    "id": 28,
+    "name": "Quick Draw All Challenges",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "Neo",
+    "verification": "https://youtu.be/XCbLb8HYOoo",
+    "description": "0 AI Mr. Hugs Night with all challenges enabled.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Neo",
+            "link": "https://youtu.be/XCbLb8HYOoo",
+            "percent": 100
+        }
+    ]
+}
