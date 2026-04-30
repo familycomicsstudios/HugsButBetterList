@@ -3,11 +3,16 @@
     "name": "Hyper Hugs' Madness Laser Pointer",
     "author": "Themadpunter",
     "creators": ["Themadpunter"],
-    "verifier": "lavewave",
+    "verifier": "MadoBrick",
     "verification": "https://youtu.be/V3NNlIIBaXQ",
     "description": "20 AI Mr. Hugs' Night with Hyper enabled. Laser Pointer must be enabled.",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "MadoBrick",
+            "link": "https://www.youtube.com/watch?v=lrEflsGJ_uI"
+            "percent": 100
+        },
         {
             "user": "lavewave",
             "link": "https://youtu.be/V3NNlIIBaXQ",
