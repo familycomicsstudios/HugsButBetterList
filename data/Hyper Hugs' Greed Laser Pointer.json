@@ -1,0 +1,17 @@
+{
+    "id": 29,
+    "name": "Hyper Hugs' Greed Laser Pointer",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "lavewave",
+    "verification": "https://youtu.be/V3NNlIIBaXQ",
+    "description": "20 AI Mr. Hugs' Night with Hyper enabled and 50 coins by the end. Laser Pointer must be enabled.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "lavewave",
+            "link": "https://youtu.be/V3NNlIIBaXQ",
+            "percent": 100
+        }
+    ]
+}
