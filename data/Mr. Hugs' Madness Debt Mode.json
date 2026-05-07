@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "Mr. Hugs' Madness",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "Drpepperman",
+    "verification": "https://www.youtube.com/watch?v=WU29w7kimHY",
+    "description": "20 AI Mr. Hugs' Night with no challenges and Debt Mode enabled.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "name": "Drpepperman",
+            "link": "https://www.youtube.com/watch?v=WU29w7kimHY",
+            "percent": 100
+        }
+    ]
+}
