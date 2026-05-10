@@ -1,0 +1,17 @@
+{
+    "id": 33,
+    "name": "Shadow Mr. Hugs' Madness All Challenges Pixel Pointer",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "Oats",
+    "verification": "https://youtu.be/wXIb36Dm8t8",
+    "description": "20 AI Mr. Hugs' Night with all normal challenges. Pixel Pointer challenge must be enabled.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Oats",
+            "link": "https://youtu.be/wXIb36Dm8t8",
+            "percent": 100
+        }
+    ]
+}
