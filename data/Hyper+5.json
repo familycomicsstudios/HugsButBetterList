@@ -1,0 +1,17 @@
+{
+    "id": 31,
+    "name": "Hyper+5 Hugs' Madness",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "lavewave",
+    "verification": "https://youtu.be/GDJ7f11DONQ",
+    "description": "20 AI Mr. Hugs' Night with Hyper and Hyper+5 enabled.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "lavewave",
+            "link": "https://youtu.be/GDJ7f11DONQ",
+            "percent": 100
+        }
+    ]
+}
