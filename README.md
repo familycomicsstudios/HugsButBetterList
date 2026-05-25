@@ -42,6 +42,12 @@ What are some common reasons for the website not loading?
 
 ## More Coming Soon!
 
+## List Editor
+
+- Run `tools/list_editor.py` to open a small Tkinter editor for this repository.
+- Use the `Add Record` tab to enter a player name and video link, keep percent fixed at 100, and check every level that should receive the record.
+- Use the `Add Game` tab to create a new level and choose the mode it should be inserted before, or pick `Bottom of the List` to append it.
+
 ## Repo Maintainers:
 
 - Prometheus

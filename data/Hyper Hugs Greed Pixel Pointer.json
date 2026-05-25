@@ -2,7 +2,9 @@
     "id": 34,
     "name": "Hyper Hugs Greed Pixel Pointer",
     "author": "Themadpunter",
-    "creators": ["Themadpunter"],
+    "creators": [
+        "Themadpunter"
+    ],
     "verifier": "lavewave",
     "verification": "https://www.youtube.com/watch?v=lIH0k2ruDU0",
     "description": "Hyper hugs with flashlight and pixel pointer turn on",
