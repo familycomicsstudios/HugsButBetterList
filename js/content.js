@@ -66,13 +66,21 @@ export async function fetchLeaderboard() {
             completed: [],
             progressed: [],
         };
-        const { verified } = scoreMap[verifier];
-        verified.push({
-            rank: rank + 1,
-            level: level.name,
-            score: 0,
-            link: level.verification,
-        });
+            const { verified } = scoreMap[verifier];
+            // Always show verification entry. If verifier also has a 100% record, award 0 points.
+            const verifierLower = verifier.toLowerCase();
+            const hasVerifierVictory = level.records.some(
+                (r) => r.user.toLowerCase() === verifierLower && r.percent === 100,
+            );
+            const verificationScore = hasVerifierVictory
+                ? 0
+                : score(rank + 1, 100, level.percentToQualify);
+            verified.push({
+                rank: rank + 1,
+                level: level.name,
+                score: verificationScore,
+                link: level.verification,
+            });
 
         // Records
         level.records.forEach((record) => {
