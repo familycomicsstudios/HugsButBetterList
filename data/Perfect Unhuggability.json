@@ -15,8 +15,10 @@
             "link": "https://www.youtube.com/watch?v=8Wzamd1veQw",
             "percent": 100
         },
-        "user": "Shad0wL1tt3n",
+        {
+            "user": "Shad0wL1tt3n",
             "link": "  https://youtu.be/jeW1x1xIxRM?si=Dmc_XDniFilHEWnP",
             "percent": 100
+        }
     ]
 }
