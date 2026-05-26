@@ -9,5 +9,11 @@
     "verification": "https://youtu.be/zoJQqSKq_7U",
     "description": "A night with Mr. Hugs at 20 AI and no challenges.",
     "percentToQualify": 100,
-    "records": []
+   "records": [
+        {
+            "user": "Shad0wL1tt3n",
+            "link": "https://www.youtube.com/watch?v=2BuIOlKQt7o",
+            "percent": 100
+        }
+    ]
 }
