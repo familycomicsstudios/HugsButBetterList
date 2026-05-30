@@ -1,0 +1,18 @@
+{
+    "id": 65,
+    "name": "Greedy Eternal Unhuggable",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "LaveWave",
+    "verification": "https://youtu.be/6zkY6aLZKek",
+    "description": "20 AI Mr. Hugs' Night with all normal challenges plus Hyper and Unhuggable with the hardest hour all night while also reaching the coin cap of 50.",
+    "percentToQualify": 100,
+    "records": [
+
+        {
+            "user": "lavewave",
+            "link": "https://youtu.be/6zkY6aLZKek",
+            "percent": 100
+        }
+    ]
+}
