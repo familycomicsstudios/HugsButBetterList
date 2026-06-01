@@ -1,0 +1,19 @@
+{
+    "id": 64,
+    "name": "Panhuggability",
+    "author": "Themadpunter",
+    "creators": [
+        "Themadpunter"
+    ],
+    "verifier": "Mariocik",
+    "verification": "https://www.youtube.com/watch?v=FohmnB2-ioM",
+    "description": "Perfect Unhuggability but pan stan night.",
+    "percentToQualify": 100,
+ "records": [
+        {
+            "user": "Mariocik",
+            "link": "https://www.youtube.com/watch?v=FohmnB2-ioM",
+            "percent": 100
+        }
+    ]
+}

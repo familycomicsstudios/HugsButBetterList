@@ -1,0 +1,19 @@
+{
+    "id": 60,
+    "name": "Embrace",
+    "author": "Themadpunter",
+    "creators": [
+        "Themadpunter"
+    ],
+    "verifier": "Shad0wL1tt3n",
+    "verification": "https://youtu.be/2hqWkvE9qpU",
+    "description": "Embrace.",
+    "percentToQualify": 100,
+ "records": [
+        {
+            "user": "Shad0wL1tt3n",
+            "link": "https://youtu.be/2hqWkvE9qpU",
+            "percent": 100
+        }
+    ]
+}

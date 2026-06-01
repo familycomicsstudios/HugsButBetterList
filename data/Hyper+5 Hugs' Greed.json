@@ -1,0 +1,17 @@
+{
+    "id": 31,
+    "name": "Hyper+5 Hugs' Greed",
+    "author": "Themadpunter",
+    "creators": ["Themadpunter"],
+    "verifier": "lavewave",
+    "verification": "https://youtu.be/Im1act04c6k",
+    "description": "20 AI Mr. Hugs' Night with Hyper and Hyper+5 enabled while also reaching the coin cap of 50.",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "lavewave",
+            "link": "https://youtu.be/Im1act04c6k",
+            "percent": 100
+        }
+    ]
+}
