@@ -9,5 +9,10 @@
     "verification": "https://youtu.be/P_BmT85AXPk",
     "description": "The base max mode with hard mode on all characters from ONAMH: But Dumb",
     "percentToQualify": 100,
-    "records": []
-}
+      "records": [
+        {
+            "user": "pavlova24",
+            "link": "https://www.youtube.com/watch?v=8fn3ssaPtDU",
+            "percent": 100
+        }
+    ]
