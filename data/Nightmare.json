@@ -9,5 +9,10 @@
     "verification": "https://youtu.be/mFevsRYK-2U",
     "description": "The base max mode from ONAMH: But Dumb",
     "percentToQualify": 100,
-    "records": []
-}
+ "records": [
+        {
+            "user": "pavlova24",
+            "link": "https://www.youtube.com/watch?v=8fn3ssaPtDU",
+            "percent": 100
+        }
+    ]
